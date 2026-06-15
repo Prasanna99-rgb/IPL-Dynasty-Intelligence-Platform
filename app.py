@@ -18,16 +18,13 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    dynasty = pd.read_csv("ipl_dynasty_rankings.csv")
-    franchise = pd.read_csv("franchise_rankings.csv")
-    dna = pd.read_csv("championship_dna_rankings.csv")
-    pressure = pd.read_csv("pressure_performance_rankings.csv")
-    venue = pd.read_csv("venue_dominance_rankings.csv")
+    dynasty = pd.read_csv("data/ipl_dynasty_rankings.csv")
+    franchise = pd.read_csv("data/franchise_rankings.csv")
+    dna = pd.read_csv("data/championship_dna_rankings.csv")
+    pressure = pd.read_csv("data/pressure_performance_rankings.csv")
+    venue = pd.read_csv("data/venue_dominance_rankings.csv")
 
     return dynasty, franchise, dna, pressure, venue
-
-
-dynasty, franchise, dna, pressure, venue = load_data()
 
 # ---------------------------
 # TITLE
