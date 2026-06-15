@@ -18,13 +18,37 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
+
     dynasty = pd.read_csv("data/ipl_dynasty_rankings.csv")
-    franchise = pd.read_csv("data/franchise_rankings.csv")
-    dna = pd.read_csv("data/championship_dna_rankings.csv")
-    pressure = pd.read_csv("data/pressure_performance_rankings.csv")
-    venue = pd.read_csv("data/venue_dominance_rankings.csv")
+
+    franchise = pd.read_csv(
+        "data/franchise_rankings.csv"
+    )
+
+    dna = pd.read_csv(
+        "data/championship_dna_rankings.csv"
+    )
+
+    pressure = pd.read_csv(
+        "data/pressure_performance_rankings.csv"
+    )
+
+    venue = pd.read_csv(
+        "data/venue_dominance_rankings.csv"
+    )
 
     return dynasty, franchise, dna, pressure, venue
+
+
+try:
+
+    dynasty, franchise, dna, pressure, venue = load_data()
+
+except Exception as e:
+
+    st.error(f"Data Loading Error: {e}")
+
+    st.stop()
 
 # ---------------------------
 # TITLE
