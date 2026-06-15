@@ -14,7 +14,7 @@ IPL Dynasty Intelligence Platform is available as an interactive web application
 - Team Comparison
 
 **Live Demo:** [Open Application](
-ipl-dynasty-intelligence-platform-jhcyzrlflttxvwench55ah.streamlit.app)
+https://ipl-dynasty-intelligence-platform-jhcyzrlflttxvwench55ah.streamlit.app/)
 
 ---
 
@@ -278,7 +278,7 @@ The project combines business analytics, KPI engineering, statistical analysis, 
 
 🚀 **IPL Dynasty Intelligence Platform**
 
-ipl-dynasty-intelligence-platform-jhcyzrlflttxvwench55ah.streamlit.app
+https://ipl-dynasty-intelligence-platform-jhcyzrlflttxvwench55ah.streamlit.app/
 
 ---
 
