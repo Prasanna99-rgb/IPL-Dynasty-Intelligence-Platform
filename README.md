@@ -13,7 +13,8 @@ IPL Dynasty Intelligence Platform is available as an interactive web application
 - Venue Dominance
 - Team Comparison
 
-**Live Demo:** [Open Application](YOUR_STREAMLIT_APP_LINK)
+**Live Demo:** [Open Application](
+ipl-dynasty-intelligence-platform-jhcyzrlflttxvwench55ah.streamlit.app)
 
 ---
 
@@ -275,14 +276,31 @@ The project combines business analytics, KPI engineering, statistical analysis, 
 ---
 ## Live Application
 
-🚀 **Live Demo:** [IPL Dynasty Intelligence Platform](YOUR_STREAMLIT_APP_LINK)
+🚀 **IPL Dynasty Intelligence Platform**
+
+ipl-dynasty-intelligence-platform-jhcyzrlflttxvwench55ah.streamlit.app
+
+---
 
 ## Author
 
 **Prasanna Deshmane**
 
-- [GitHub](YOUR_GITHUB_PROFILE)
-- [LinkedIn](YOUR_LINKEDIN_PROFILE)b
+### Connect With Me
+
+- GitHub: github.com/Prasanna99-rgb
+- LinkedIn: linkedin.com/in/prasanna-deshmane-80a419205
+
+---
+
+## Project Repository
+
+IPL-Dynasty-Intelligence-Platform
+
+GitHub Repository:
+
+github.com/Prasanna99-rgb/IPL-Dynasty-Intelligence-Platform
+
 
 LinkedIn:
 https://www.linkedin.com/in/prasanna-deshmane-80a419205
