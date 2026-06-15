@@ -288,7 +288,7 @@ https://ipl-dynasty-intelligence-platform-jhcyzrlflttxvwench55ah.streamlit.app/
 
 ### Connect With Me
 
-- GitHub: github.com/Prasanna99-rgb
+- GitHub Profile: github.com/Prasanna99-rgb
 - LinkedIn: linkedin.com/in/prasanna-deshmane-80a419205
 
 ---
